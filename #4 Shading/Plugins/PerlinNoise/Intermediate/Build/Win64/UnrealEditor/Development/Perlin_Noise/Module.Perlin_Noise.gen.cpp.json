@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\projects\\myprojectdelete\\plugins\\perlinnoise\\intermediate\\build\\win64\\unrealeditor\\development\\perlin_noise\\module.perlin_noise.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\projects\\myprojectdelete\\intermediate\\build\\win64\\myprojectdeleteeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\projects\\myprojectdelete\\plugins\\perlinnoise\\intermediate\\build\\win64\\unrealeditor\\development\\perlin_noise\\definitions.perlin_noise.h",
+            "e:\\projects\\myprojectdelete\\plugins\\perlinnoise\\intermediate\\build\\win64\\unrealeditor\\inc\\perlin_noise\\perlin_noise.init.gen.cpp",
+            "e:\\projects\\myprojectdelete\\plugins\\perlinnoise\\intermediate\\build\\win64\\unrealeditor\\inc\\perlin_noise\\perlin_noisebplibrary.gen.cpp",
+            "e:\\projects\\myprojectdelete\\plugins\\perlinnoise\\source\\perlin_noise\\public\\perlin_noisebplibrary.h",
+            "e:\\projects\\myprojectdelete\\plugins\\perlinnoise\\intermediate\\build\\win64\\unrealeditor\\inc\\perlin_noise\\perlin_noisebplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

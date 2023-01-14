@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Perlin_Noise.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Projects\MyProjectdelete\Intermediate\Build\Win64\MyProjectdeleteEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Projects\MyProjectdelete\Plugins\PerlinNoise\Intermediate\Build\Win64\UnrealEditor\Development\Perlin_Noise\Module.Perlin_Noise.cpp.obj"
+"E:\Projects\MyProjectdelete\Plugins\PerlinNoise\Intermediate\Build\Win64\UnrealEditor\Development\Perlin_Noise\Module.Perlin_Noise.gen.cpp.obj"
+"E:\Projects\MyProjectdelete\Plugins\PerlinNoise\Intermediate\Build\Win64\UnrealEditor\Development\Perlin_Noise\Default.rc2.res"
+/OUT:"E:\Projects\MyProjectdelete\Plugins\PerlinNoise\Intermediate\Build\Win64\UnrealEditor\Development\Perlin_Noise\UnrealEditor-Perlin_Noise.lib"
